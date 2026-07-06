@@ -67,7 +67,7 @@ Quick pivot table showing Movies vs TV Shows distribution:
 - [x] Data structure and null values checked
 - [x] Business questions defined
 - [x] Null handling strategy documented
-- [ ] Data cleaning (Python)
+- [x] Data cleaning (Python)
 - [ ] SQL queries
 - [ ] EDA and visualizations
 - [ ] Power BI dashboard
