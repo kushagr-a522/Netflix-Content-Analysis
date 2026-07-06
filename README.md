@@ -4,7 +4,7 @@
 ## About
 **Analyst:** Kushagra Yadav  
 **Tools:** Python | SQL | Power BI | Excel | Git  
-**Dataset:** 8,807 Netflix titles | 2008–2021
+**Dataset:** 8,807 Netflix titles | Added to Netflix 2008–2021 (content spans original release years as far back as 1925)
 
 ---
 
@@ -25,7 +25,7 @@ To analyze Netflix's content library and uncover key insights around content typ
 ## Dataset
 - **Source:** Kaggle - Shivam Bansal
 - 8,807 Netflix titles
-- **12 columns:** show_id, type, title, director cast, country, date_added, release_year, rating duration, listed_in, description
+- **12 columns:** show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
 - **Date range:** 1925 to 2021
 
 ---
@@ -53,8 +53,9 @@ Quick pivot table showing Movies vs TV Shows distribution:
 ---
 
 ## Project Structure
-- `netflix_titles.csv` — Raw dataset
-- `Netflix_Excel_Analysis.xlsx` — Excel pivot table analysis
+- `netflix_titles.xlsx` — Raw dataset
+- `Netflix_Excel_Analysis.csv` — Excel pivot table analysis
+- `Netflix_Cleaned.csv` - Cleaned dataset 
 - `excel_pivot.png` — Pivot table screenshot
 - `Netflix_analysis.ipynb` — Full analysis notebook
 - `.gitignore` — Excludes unnecessary files
