@@ -9,14 +9,14 @@
 ---
 
 ## Objective
-To analyze Netflix's content library and uncover key insights around content type distribution country-wise production, genre trends, and yearly growth -  with actionable recommendations for content strategy.
+To analyze Netflix's content library and uncover key insights around content type distribution,country-wise production, genre trends, and yearly growth -  with actionable recommendations for content strategy.
 
 ---
 
 ## Tools Used
 - **Python** (Pandas, Matplotlib, Seaborn) - Data cleaning, EDA, visualization
 - **SQL** (SQLite) - Business queries and aggregations
-- **Power BI** —-Interactive dashboard
+- **Power BI** -Interactive dashboard
 - **Excel** - Quick pivot table analysis
 - **Git & GitHub** - Version control
 
@@ -44,11 +44,11 @@ Quick pivot table showing Movies vs TV Shows distribution:
 ---
 
 ## Business Questions This Project Will Answer
-1. Which country produces the most Netflix content?
-2. What is the ratio of Movies vs TV Shows on Netflix?
-3. Which genres dominate the Netflix library?
-4. How has Netflix grown its content library year over year - especially during COVID (2019–2021)?
-5. What content ratings are most common and what does that say about Netflix's target audience?
+- Which country produces the most Netflix content?
+- What is the ratio of Movies vs TV Shows on Netflix?
+- Which genres dominate the Netflix library?
+- How has Netflix grown its content library year over year - especially during COVID (2019–2021)?
+- What content ratings are most common and what does that say about Netflix's target audience?
 
 ---
 
