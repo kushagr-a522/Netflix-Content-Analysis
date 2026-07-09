@@ -1,6 +1,8 @@
 # Netflix Content Analysis
 > Status: In Progress | Started July 2026 | Target: July 14, 2026
 
+---
+
 ## About
 **Analyst:** Kushagra Yadav  
 **Tools:** Python | SQL | Power BI | Excel | Git  
@@ -40,6 +42,8 @@ Quick pivot table showing Movies vs TV Shows distribution:
 | Movie        |        6,131 |
 | TV Show      |        2,676 |
 | **Total**    |     **8,807**|
+
+*(Note: figures above are pre-cleaning counts from the raw Excel pivot; post-cleaning totals are 6,126 Movies / 2,664 TV Shows - see notebook for details.)*
 
 ---
 
