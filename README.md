@@ -18,7 +18,7 @@ To analyze Netflix's content library and uncover key insights around content typ
 ## Tools Used
 - **Python** (Pandas, Matplotlib, Seaborn) - Data cleaning, EDA, visualization
 - **SQL** (SQLite) - Business queries and aggregations
-- **Power BI** -Interactive dashboard
+- **Power BI** - Interactive dashboard
 - **Excel** - Quick pivot table analysis
 - **Git & GitHub** - Version control
 
@@ -28,7 +28,8 @@ To analyze Netflix's content library and uncover key insights around content typ
 - **Source:** Kaggle - Shivam Bansal
 - 8,807 Netflix titles
 - **12 columns:** show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
-- **Date range:** 1925 to 2021
+- **Release year range:** 1925 to 2021 
+- **Added to Netflix:** 2008 to 2021
 
 ---
 
