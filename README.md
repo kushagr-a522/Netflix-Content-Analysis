@@ -36,7 +36,7 @@ To analyze Netflix's content library and uncover key insights around content typ
 ## Excel Quick Analysis
 Quick pivot table showing Movies vs TV Shows distribution:
 
-![Excel Pivot](excel_pivot.png)
+![Excel Pivot](excel_pivot.png) Screenshot of the Pivot table.
 
 | Content Type | Total Titles |
 |------------- |------------- |
@@ -58,12 +58,13 @@ Quick pivot table showing Movies vs TV Shows distribution:
 ---
 
 ## Project Structure
-- `netflix_titles.xlsx` — Raw dataset
-- `Netflix_Excel_Analysis.csv` — Excel pivot table analysis
+- `netflix_titles.xlsx` - Raw dataset
+- `Netflix_Excel_Analysis.csv` - Excel pivot table analysis
 - `Netflix_Cleaned.csv` - Cleaned dataset 
-- `excel_pivot.png` — Pivot table screenshot
-- `Netflix_analysis.ipynb` — Full analysis notebook
-- `.gitignore` — Excludes unnecessary files
+- `excel_pivot.png` - Pivot table screenshot
+- `Netflix_analysis.ipynb` - Full analysis notebook
+- `charts` - Visualization's Images
+- `.gitignore` - Excludes unnecessary files
 
 ---
 
