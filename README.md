@@ -1,5 +1,5 @@
 # Netflix Content Analysis
-> Status: In Progress | Started July 2026 | Target: July 14, 2026 - [Extented date: July 17, 2026]
+> Status: In Progress | Started July 2026 | Target: July 14, 2026 - [Extended date: July 20, 2026]
 
 ---
 
@@ -11,7 +11,7 @@
 ---
 
 ## Objective
-To analyze Netflix's content library and uncover key insights around content type distribution,country-wise production, genre trends, and yearly growth -  with actionable recommendations for content strategy.
+To analyze Netflix's content library and uncover key insights around content type distribution, country-wise production, genre trends, and yearly growth -  with actionable recommendations for content strategy.
 
 ---
 
@@ -36,7 +36,8 @@ To analyze Netflix's content library and uncover key insights around content typ
 ## Excel Quick Analysis
 Quick pivot table showing Movies vs TV Shows distribution:
 
-![Excel Pivot](excel_pivot.png)  [Screenshot of the Pivot table.]
+![Excel Pivot](excel_pivot.png)
+*Pivot table showing Movies vs TV Shows split*
 
 | Content Type | Total Titles |
 |------------- |------------- |
@@ -63,7 +64,7 @@ Quick pivot table showing Movies vs TV Shows distribution:
 - `Netflix_Cleaned.csv` - Cleaned dataset 
 - `excel_pivot.png` - Pivot table screenshot
 - `Netflix_analysis.ipynb` - Full analysis notebook
-- `charts` - Visualization's Images
+- `charts/` - Visualization Images
 - `.gitignore` - Excludes unnecessary files
 
 ---
