@@ -1,9 +1,9 @@
 # Netflix Content Analysis
-> Status: In Progress | Started July 2026 | Target: July 14, 2026 - [Extended date: July 20, 2026]
+> Status: In Progress | Started July 2026 | Target: July 14, 2026 - [Extended date: July 23, 2026]
 
 ---
 
-## About
+## About 
 **Analyst:** Kushagra Yadav  
 **Tools:** Python | SQL | Power BI | Excel | Git  
 **Dataset:** 8,807 Netflix titles | Added to Netflix 2008–2021 (content spans original release years as far back as 1925)
@@ -13,7 +13,7 @@
 ## Objective
 To analyze Netflix's content library and uncover key insights around content type distribution, country-wise production, genre trends, and yearly growth -  with actionable recommendations for content strategy.
 
----
+--- 
 
 ## Tools Used
 - **Python** (Pandas, Matplotlib, Seaborn) - Data cleaning, EDA, visualization
@@ -22,13 +22,13 @@ To analyze Netflix's content library and uncover key insights around content typ
 - **Excel** - Quick pivot table analysis
 - **Git & GitHub** - Version control
 
----
+--- 
 
 ## Dataset
-- **Source:** Kaggle - Shivam Bansal
+- **Source:** Kaggle - Shivam Bansal 
 - 8,807 Netflix titles
 - **12 columns:** show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
-- **Release year range:** 1925 to 2021 
+- **Release year range:** 1925 to 2021  
 - **Added to Netflix:** 2008 to 2021
 
 ---
@@ -78,5 +78,5 @@ Quick pivot table showing Movies vs TV Shows distribution:
 - [x] Data cleaning (Python)
 - [x] EDA and visualizations
 - [x] SQL queries
-- [ ] Power BI dashboard
-- [ ] Business insights write-up
+- [ ] Power BI dashboard 
+- [ ] Business insights write-up 
