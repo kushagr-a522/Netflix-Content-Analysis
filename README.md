@@ -1,5 +1,5 @@
 # Netflix Content Analysis
-> Status: In Progress | Started July 2026 | Target: July 14, 2026 - [Extended date: July 23, 2026]
+> Status: In Progress | Started July 2026 | Target: July 14, 2026 - [Extended date: July 24, 2026]
 
 ---
 
@@ -28,7 +28,7 @@ To analyze Netflix's content library and uncover key insights around content typ
 - **Source:** Kaggle - Shivam Bansal 
 - 8,807 Netflix titles
 - **12 columns:** show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
-- **Release year range:** 1925 to 2021  
+- **Release year range:** 1925 to 2021
 - **Added to Netflix:** 2008 to 2021
 
 ---
