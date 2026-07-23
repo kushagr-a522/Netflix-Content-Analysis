@@ -1,5 +1,5 @@
 # Netflix Content Analysis
-> Status: In Progress | Started July 2026 | Target: July 14, 2026 - [Extended date: July 24, 2026]
+> Status: In Progress | Started July 2026 | Target: July 14, 2026 - [Extended date: July 25, 2026]
 
 ---
 
