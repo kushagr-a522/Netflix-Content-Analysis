@@ -3,6 +3,7 @@
 
 ---
 
+
 ## About 
 **Analyst:** Kushagra Yadav  
 **Tools:** Python | SQL | Power BI | Excel | Git  
@@ -24,6 +25,7 @@ To analyze Netflix's content library and uncover key insights around content typ
 
 --- 
 
+
 ## Dataset
 - **Source:** Kaggle - Shivam Bansal 
 - 8,807 Netflix titles
@@ -32,6 +34,7 @@ To analyze Netflix's content library and uncover key insights around content typ
 - **Added to Netflix:** 2008 to 2021
 
 ---
+
 
 ## Excel Quick Analysis
 Quick pivot table showing Movies vs TV Shows distribution:
@@ -47,6 +50,7 @@ Quick pivot table showing Movies vs TV Shows distribution:
 
 *(Note: figures above are pre-cleaning counts from the raw Excel pivot; post-cleaning totals are 6,126 Movies / 2,664 TV Shows - see notebook for details.)*
 
+
 ---
 
 ## Business Questions This Project Will Answer
@@ -57,6 +61,7 @@ Quick pivot table showing Movies vs TV Shows distribution:
 - What content ratings are most common and what does that say about Netflix's target audience?
 
 ---
+
 
 ## Project Structure
 - `netflix_titles.xlsx` - Raw dataset
